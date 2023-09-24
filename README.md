@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=mDLmqhhY-6g
 
 https://www.youtube.com/watch?v=gpaq5bAjya8
 
+The follwing asssets were used for the plant model: 
+
+https://assetstore.unity.com/packages/3d/props/interior/yughues-free-decorative-plants-13283
+
